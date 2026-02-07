@@ -1,30 +1,52 @@
-<h1 align="center">Hi 👋, I'm Soyebuzaman naim</h1>
-<h3 align="center">A Computer Science Student | Aspiring Full-Stack Developer | Competitive Programmer</h3>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Soyebuzaman+Naim;CS+Student+%7C+Aspiring+Full-Stack+Dev;Competitive+Programmer;Building+Scalable+Systems" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soyebuzamannaim&label=Profile%20views&color=0e75b6&style=flat" alt="soyebuzamannaim" /> </p>
+  <p align="center">
+    <a href="https://linkedin.com/in/md-soyebuzaman-naim" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="md-soyebuzaman-naim" /></a>
+    <a href="https://codeforces.com/profile/naiminator" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="naiminator" /></a>
+    <a href="https://www.codechef.com/users/naiminator_who" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="naiminator_who" /></a>
+    <a href="https://kaggle.com/soyebuzamannaim" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="soyebuzamannaim" /></a>
+    <a href="https://www.hackerrank.com/soyebuzamannaim" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="soyebuzamannaim" /></a>
+    <a href="mailto:soyebuzamannaim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="soyebuzamannaim" /></a>
+  </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soyebuzamannaim" alt="soyebuzamannaim" /></a> </p>
+---
 
-- 🌱 I’m currently learning **How to build scalable systems**
+### 🧐 About Me
 
-- 📫 How to reach me **soyebuzamannaim@gmail.com**
+- 🔭 I’m currently learning **How to build scalable systems**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://soyebuzamannaim.github.io/Naim-Portfolio/)**
+- 🧩 I love solving algorithmic problems on **Codeforces** and **CodeChef**
+- 📫 Reach me at **soyebuzamannaim@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-soyebuzaman-naim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-soyebuzaman-naim" height="30" width="40" /></a>
-<a href="https://kaggle.com/soyebuzamannaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soyebuzamannaim" height="30" width="40" /></a>
-<a href="https://fb.com/soyebuzamannaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soyebuzamannaim" height="30" width="40" /></a>
-<a href="https://instagram.com/naiminator_who" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naiminator_who" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/naiminator_who" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naiminator_who" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/soyebuzamannaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soyebuzamannaim" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/naiminator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="naiminator" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyebuzamannaim&show_icons=true&locale=en&layout=compact" alt="soyebuzamannaim" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soyebuzamannaim&show_icons=true&locale=en" alt="soyebuzamannaim" /></p>
+| **Languages** | **Frontend** | **Backend & DB** | **Tools & OS** |
+|:---:|:---:|:---:|:---:|
+| <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" /> | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" /> | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" /> | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /> <img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" /> <img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /> |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyebuzamannaim&" alt="soyebuzamannaim" /></p>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soyebuzamannaim&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=000&text_color=333" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soyebuzamannaim&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyebuzamannaim&theme=transparent&hide_border=true&title_color=000&text_color=333" alt="streak graph" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=soyebuzamannaim&label=Profile%20views&color=0e75b6&style=flat-square" alt="soyebuzamannaim" />
+</div>
