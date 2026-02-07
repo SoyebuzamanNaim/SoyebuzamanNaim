@@ -8,7 +8,7 @@
     <a href="https://www.codechef.com/users/naiminator_who" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="naiminator_who" /></a>
     <a href="https://kaggle.com/soyebuzamannaim" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="soyebuzamannaim" /></a>
     <a href="https://www.hackerrank.com/soyebuzamannaim" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="soyebuzamannaim" /></a>
-    <a href="mailto:soyebuzamannaim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="soyebuzamannaim" /></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soyebuzamannaim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="soyebuzamannaim" /></a>
   </p>
 </div>
 
