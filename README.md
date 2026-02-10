@@ -1,18 +1,20 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Soyebuzaman+Naim;CS+Student+%7C+Aspiring+Full-Stack+Dev;Competitive+Programmer;Building+Scalable+Systems" alt="Typing SVG" />
+ 
+  <h1>Hi 👋, I'm Soyebuzaman Naim</h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Aspiring+Full-Stack+Dev;Competitive+Programmer;Building+Scalable+Systems;Backend+Developer+(Java+%2F+Spring);Open+Source+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/md-soyebuzaman-naim" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="md-soyebuzaman-naim" /></a>
-    <a href="https://codeforces.com/profile/naiminator" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="naiminator" /></a>
-    <a href="https://www.codechef.com/users/naiminator_who" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="naiminator_who" /></a>
-    <a href="https://kaggle.com/soyebuzamannaim" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="soyebuzamannaim" /></a>
-    <a href="https://www.hackerrank.com/soyebuzamannaim" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="soyebuzamannaim" /></a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soyebuzamannaim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="soyebuzamannaim" /></a>
+    <a href="https://linkedin.com/in/md-soyebuzaman-naim" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://codeforces.com/profile/naiminator" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+    <a href="https://www.codechef.com/users/naiminator_who" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+    <a href="https://kaggle.com/soyebuzamannaim" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+    <a href="https://www.hackerrank.com/soyebuzamannaim" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+    <a href="mailto:soyebuzamannaim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 </div>
 
----
+<br/>
 
 ### 🧐 About Me
 
