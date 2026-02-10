@@ -8,7 +8,7 @@
     <a href="https://linkedin.com/in/md-soyebuzaman-naim" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://codeforces.com/profile/naiminator" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
     <a href="https://www.codechef.com/users/naiminator_who" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-    <a href="https://kaggle.com/soyebuzamannaim" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+    <!-- <a href="https://kaggle.com/soyebuzamannaim" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> -->
     <a href="https://www.hackerrank.com/soyebuzamannaim" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
     <a href="mailto:soyebuzamannaim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
@@ -20,10 +20,13 @@
 
 - 🔭 I’m currently learning **How to build scalable systems**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://soyebuzamannaim.github.io/Naim-Portfolio/)**
-- 🧩 I love solving algorithmic problems on **Codeforces** and **CodeChef**
+- 🧩 I love solving algorithmic problems on **Codeforces** 
 - 📫 Reach me at **soyebuzamannaim@gmail.com**
 
----
+
+<br/>
+
+
 
 ### 🛠️ Tech Stack
 
@@ -35,10 +38,11 @@
 
 </div>
 
----
+
+
+<br/>
 
 ### 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyebuzamannaim&theme=highcontrast&hide_border=true" alt="streak graph" />
 </div>
